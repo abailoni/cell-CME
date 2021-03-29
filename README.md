@@ -4,6 +4,7 @@
 - To install the dependencies, you will need [miniconda](https://docs.conda.io/en/latest/miniconda.html) or [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
 - Once you have installed conda, run the command  `conda env create --name=cellCME --file=environment.yml`
 - Before to run any of the scripts, activate your new environment with `conda activate cellCME`
+- Install package with `python setup.py install`  
 
 ### Usage
 - Data should be organized as follows:
